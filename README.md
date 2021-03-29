@@ -7,5 +7,3 @@ Testable hypotheses:
 * top-10 genres on Monday morning and on Friday evening are distinct;
 
 * people in two cities prefer different music genres.
-
-# music-preference-analysis
